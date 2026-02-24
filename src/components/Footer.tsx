@@ -24,7 +24,7 @@ export default function Footer() {
           <div>
             <p className="font-medium mb-2">Company</p>
             <div className="space-y-1.5 text-neutral-500">
-              <Link href="#" className="block hover:text-black transition-colors">About VOXA</Link>
+              <Link href="#" className="block hover:text-black transition-colors">About VOXXA</Link>
               <Link href="#" className="block hover:text-black transition-colors">Contact Audio Team</Link>
             </div>
           </div>
@@ -37,7 +37,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-6 border-t pt-4 text-[10px] text-neutral-400">
-          &copy; 2026 VOXA. All rights reserved.
+          &copy; 2026 VOXXA. All rights reserved.
         </div>
       </div>
     </footer>

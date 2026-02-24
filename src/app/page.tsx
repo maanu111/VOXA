@@ -189,7 +189,7 @@ export default function Home() {
         <div className="mx-auto max-w-6xl px-4 py-12">
           <div className="reveal reveal-delay-2 rounded-3xl border border-slate-200 bg-[linear-gradient(130deg,#f0f9ff_0%,#ffffff_50%,#e0f2fe_100%)] px-6 py-8 text-center sm:px-10">
             <p className="text-[10px] uppercase tracking-[0.2em] text-sky-700">
-              VOXA Promise
+              VOXXA Promise
             </p>
             <p className="mt-2 text-sm text-slate-700">
               Free shipping on orders over INR 5,000 and same-day dispatch for most

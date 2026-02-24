@@ -32,7 +32,7 @@ export default function Header() {
     <header className="sticky top-0 z-30 bg-white/80 backdrop-blur">
       <div className="mx-auto flex h-12 max-w-6xl items-center justify-between px-4">
         <Link href="/" className="font-logo text-sm uppercase">
-          VOXA
+          VOXXA
         </Link>
 
         <nav className="hidden items-center gap-6 text-xs uppercase tracking-[0.16em] text-slate-600 md:flex">

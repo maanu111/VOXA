@@ -17,7 +17,7 @@ const orbitron = Orbitron({
 });
 
 export const metadata: Metadata = {
-  title: "VOXA",
+  title: "VOXXA",
   description: "Premium earphones and headphones with modern sound and clean design.",
 };
 
