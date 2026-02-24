@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(npx next build:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(ls:*)",
+      "Bash(node -e:*)"
+    ]
+  }
+}
